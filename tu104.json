@@ -1,0 +1,13 @@
+{
+  "id": "tu104",
+  "name": "Tupolev Tu-104",
+  "model": "https://raw.githubusercontent.com/ELRETRODEL2020/aviones-para-geofs-TUPOLEV-104-/main/tu104.glb",
+  "mass": 75000,
+  "engines": 2,
+  "thrust": 2,
+  "maxSpeed": 230,
+  "minSpeed": 140,
+  "rollRate": 30,
+  "pitchRate": 20,
+  "yawRate": 15
+}
